@@ -4,7 +4,4 @@
 #### 作者  
 Reputeless (https://twitter.com/Reputeless)
 
-#### 遊び方  
-白く塗りつぶしましょう。
-
 ![スクリーンショット](white.png "スクリーンショット")
